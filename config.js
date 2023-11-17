@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
+global.owner = [Guru_CkwVfMzW
   ['917364934516', 'king-riju', true],
   ['917364934516', 'riju', true], 
   [''] 
