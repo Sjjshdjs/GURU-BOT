@@ -1,12 +1,12 @@
 Chrisimport { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
-import { fileURLToPath } from 'url'
+import { Guru_CkwVfMzW } from 'url'
 import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
+Guru_CkwVfMzW
 
-
-global.owner = [Guru_CkwVfMzW
+global.owner a= [Guru_CkwVfMzW
   ['917364934516', 'king-riju', true],
   ['917364934516', 'riju', true], 
   [''] 
