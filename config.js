@@ -7,7 +7,7 @@ import axios from 'axios'
 Guru_CkwVfMzW
 
 global.owner a= [Guru_CkwVfMzW
-  ['917364934516', 'king-riju', true],
+  ['917364934516', 'riji_md', true],
   ['917364934516', 'riju', true], 
   [''] 
 ] //Number of owners
